@@ -1,0 +1,34 @@
+po_number,vendor_id,po_date,status,currency,line_no,description,quantity,unit,unit_price,tax_rate
+PO-1001,V001,2026-10-06,OPEN,INR,1,A4 copier paper 75 GSM (ream of 500),50,Ream,285.0,18
+PO-1001,V001,2026-10-06,OPEN,INR,2,"Ballpoint pens, blue (box of 50)",40,Box,120.0,18
+PO-1001,V001,2026-10-06,OPEN,INR,3,Heavy-duty stapler,10,Nos,650.0,18
+PO-1001,V001,2026-10-06,OPEN,INR,4,Whiteboard markers (set of 4),25,Set,340.0,18
+PO-1002,V002,2026-10-09,OPEN,INR,1,"Business laptop 14-inch, i5 / 16GB / 512GB SSD",5,Nos,68500.0,18
+PO-1002,V002,2026-10-09,OPEN,INR,2,24-inch IPS monitor,5,Nos,12800.0,18
+PO-1002,V002,2026-10-09,OPEN,INR,3,USB-C docking station,5,Nos,7900.0,18
+PO-1002,V002,2026-10-09,OPEN,INR,4,On-site setup and imaging,5,Nos,1500.0,18
+PO-1003,V003,2026-10-14,OPEN,INR,1,"FTL freight Bhiwandi to Gurugram, 32ft MXL",2,Trip,48000.0,12
+PO-1003,V003,2026-10-14,OPEN,INR,2,Loading and unloading charges,2,Trip,3500.0,12
+PO-1004,V004,2026-09-25,OPEN,INR,1,Housekeeping services - monthly (6 staff),3,Month,84000.0,18
+PO-1005,V005,2026-10-16,OPEN,INR,1,Corrugated boxes 3-ply 12x10x8 in,2000,Nos,18.5,12
+PO-1005,V005,2026-10-16,OPEN,INR,2,Bubble wrap roll 1m x 100m,40,Roll,1150.0,12
+PO-1005,V005,2026-10-16,OPEN,INR,3,Packing tape 48mm x 65m,200,Roll,42.0,12
+PO-1006,V006,2026-10-01,OPEN,INR,1,"Product catalogue A4, 32 pages, 4-colour",1000,Nos,62.0,18
+PO-1006,V006,2026-10-01,OPEN,INR,2,"Tri-fold brochure A4, 4-colour",2000,Nos,9.5,18
+PO-1006,V006,2026-10-01,OPEN,INR,3,Design and pre-press,1,Job,3745.76,18
+PO-1007,V002,2026-09-18,OPEN,INR,1,Annual maintenance contract - switches and firewalls,1,Year,145000.0,18
+PO-1008,V008,2026-08-20,OPEN,INR,1,"CCTV supply and installation (32 cameras, NVR)",1,Job,220000.0,18
+PO-1009,V001,2026-10-20,OPEN,INR,1,"Laser toner cartridge, black (high yield)",20,Nos,4200.0,18
+PO-1009,V001,2026-10-20,OPEN,INR,2,A3 copier paper 80 GSM (ream of 500),30,Ream,610.0,18
+PO-1010,V003,2026-10-22,OPEN,INR,1,Express LTL freight Gurugram to Chennai,3,Shipment,18500.0,12
+PO-1011,V007,2026-10-01,OPEN,USD,1,Cloud analytics platform - annual subscription (per seat),50,Seat,240.0,0
+PO-1011,V007,2026-10-01,OPEN,USD,2,Premium support - annual,1,Year,1800.0,0
+PO-1012,V009,2026-10-28,OPEN,INR,1,Cafeteria services - November 2026,1,Month,96000.0,5
+PO-1013,V010,2026-06-10,CLOSED,INR,1,Polo T-shirt with embroidered logo,400,Nos,385.0,5
+PO-1013,V010,2026-06-10,CLOSED,INR,2,"Cotton trousers, navy",400,Nos,520.0,5
+PO-1014,V010,2026-09-12,OPEN,INR,1,Fleece jacket with embroidered logo,300,Nos,1150.0,12
+PO-1014,V010,2026-09-12,OPEN,INR,2,Woollen beanie,300,Nos,180.0,5
+PO-1015,V001,2026-09-08,OPEN,INR,1,Tissue paper boxes (carton of 48),20,Carton,960.0,18
+PO-1015,V001,2026-09-08,OPEN,INR,2,Hand sanitiser 500ml,60,Nos,145.0,18
+PO-1016,V002,2026-09-15,OPEN,INR,1,Wireless keyboard and mouse combo,40,Set,1650.0,18
+PO-1017,V003,2026-09-20,OPEN,INR,1,"FTL freight Chennai to Gurugram, 32ft MXL",1,Trip,61000.0,12

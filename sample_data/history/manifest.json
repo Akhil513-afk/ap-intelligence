@@ -1,0 +1,38 @@
+[
+  {
+    "id": "H1",
+    "file": "hist_Apex_APX-26-27-0377.pdf",
+    "scanned": false,
+    "expected_total": 32922.0
+  },
+  {
+    "id": "H2",
+    "file": "hist_Jaipur_JTU-2026-2104.pdf",
+    "scanned": false,
+    "expected_total": 221550.0
+  },
+  {
+    "id": "H3",
+    "file": "hist_Brightline_BIT-2026-11502.pdf",
+    "scanned": false,
+    "expected_total": 77880.0
+  },
+  {
+    "id": "H4",
+    "file": "hist_Coastal_CL-2026-1098.pdf",
+    "scanned": false,
+    "expected_total": 68320.0
+  },
+  {
+    "id": "H5",
+    "file": "hist_Apex_APX-0377_resent.pdf",
+    "scanned": false,
+    "expected_total": 32922.0
+  },
+  {
+    "id": "H6",
+    "file": "hist_Indus_Catering_ICC-1107.pdf",
+    "scanned": false,
+    "expected_total": 100800.0
+  }
+]
